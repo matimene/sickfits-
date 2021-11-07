@@ -8,4 +8,10 @@ The app also includes many server side bits including authentication, permission
 
 In addition to building both the frontend and backend of the application, we also spend the last section of the course Testing the React application.
 
-## Tech stack used: Next JS, Jest, GraphQL, Apollo Client, KeystoneJS, Styled Components
+### Tech stack used: Next JS, Jest, GraphQL, Apollo Client, KeystoneJS, Styled Components
+
+### Admin dashboard
+![Admin Panel](./admin-panel.png)
+
+### User view
+![User Panel](./user-panel.png)
